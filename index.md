@@ -8,7 +8,7 @@ Here I present some initial tests from our simulation of shell growth in bacteri
 
 Due to osmotic pressure, the pressure inside a cell is larger than outside. Here we increase this pressure difference from 0 atm to 1 atm for a spherical shell of radius 250nm and observe the change in geometry.  
 
-[![splitting triangles](https://img.youtube.com/vi/PKs73A-TIWM/0.jpg)](https://www.youtube.com/watch?v=PKs73A-TIWM)  
+[![splitting triangles](https://img.youtube.com/vi/Df_-EIv69zU/0.jpg)](https://www.youtube.com/watch?v=Df_-EIv69zU)  
 **Video 1: Shell pressurization.**
 
 
