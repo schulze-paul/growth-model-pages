@@ -27,7 +27,7 @@ Here we apply a growth mechanism where two adjacent triangles across an edge are
 
 We can again observe the change in geometry as we incorporate more and more material into the shell.
 
-[![splitting triangles](https://img.youtube.com/vi/PKs73A-TIWM/0.jpg)](https://www.youtube.com/watch?v=PKs73A-TIWM)  
+[![splitting triangles](https://img.youtube.com/vi/pgXKSrMsRYM/0.jpg)](https://www.youtube.com/watch?v=pgXKSrMsRYM)  
 **Video 2: Splitting triangles growth mechanism.** 
 
 Although the spherical shape is roughly conserved, the surface is very crumpled. Overall the change in geometry throughout the growth process
@@ -43,7 +43,7 @@ Another possible mechanism selects a vertex and then grows the rest lenths of th
 
 Using this growth mechanism, we can observe the change in geometry shown in video 3.
 
-[![vertex edges](https://img.youtube.com/vi/PKs73A-TIWM/0.jpg)](https://www.youtube.com/watch?v=PKs73A-TIWM)  
+[![vertex edges](https://img.youtube.com/vi/lT4XqQmDMcY/0.jpg)](https://www.youtube.com/watch?v=lT4XqQmDMcY)  
 
 **Video 3: Vertex edges growth mechanism.** 
 
