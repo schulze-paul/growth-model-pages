@@ -25,12 +25,12 @@ Here we apply a growth mechanism where two adjacent triangles across an edge are
 **Figure 1: Splitting two triangles into four.**
 
 
-We can again observe the change in geometry as we incorporate more and more material into the shell.
+We can observe the change in geometry as we incorporate more and more material into the shell.
 
 [![splitting triangles](https://img.youtube.com/vi/pgXKSrMsRYM/0.jpg)](https://www.youtube.com/watch?v=pgXKSrMsRYM)  
 **Video 2: Splitting triangles growth mechanism.** 
 
-Although the spherical shape is roughly conserved, the surface is very crumpled. Overall the change in geometry throughout the growth process
+Although the spherical shape is roughly conserved, the surface is very crumpled. Overall the change in geometry throughout the growth process does not agree with our does not agree very well with our intuition of growth.
 
 
 ### 2. Vertex Edges Growth Mechanism 
@@ -48,3 +48,7 @@ Using this growth mechanism, we can observe the change in geometry shown in vide
 **Video 3: Vertex edges growth mechanism.** 
 
 We can see that the surface of the shell stays much smoother and agrees much better with our intuition of growth.
+
+---
+Paul Schulze  
+paul.schulze@tum.de
